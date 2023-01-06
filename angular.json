@@ -67,7 +67,8 @@
               "browserTarget": "desafiofrontend:build:production"
             },
             "development": {
-              "browserTarget": "desafiofrontend:build:development"
+              "browserTarget": "desafiofrontend:build:development",
+              "port": 7070
             }
           },
           "defaultConfiguration": "development"
